@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>table</table>
+	</head>
+<body>
+	<h3>simple table creation</h3>
+<table>
+	<thead>
+		<tr>
+			<th>Names</th>
+			<th>Age</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>sai</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<td>gnani</td>
+			<td>21</td>
+		</tr>
+	</tbody>
+</table>
